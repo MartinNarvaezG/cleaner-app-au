@@ -35,7 +35,7 @@ This document defines the JSON structure for the MVP.
     "after": "photos/job_001_after.jpg"
   },
   "notes": "Kitchen required extra time"
-  "status": "completed" // e.g. "planned", "in_progress", "completed"
+  "status": "completed" 
 }
 ```
 
